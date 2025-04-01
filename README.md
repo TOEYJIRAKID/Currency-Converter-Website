@@ -1,4 +1,4 @@
-# เว็บไซต์แปลงสกุลเงิน (Currency Converter)
+# เว็บไซต์แปลงสกุลเงิน (Currency Converter Web)
 
 ###### [(ระบบนี้ Transfer มาจาก Github Account เก่า --> https://github.com/TOEYJIRAKIT/HTML-CurrencyConverter)](https://github.com/TOEYJIRAKIT/HTML-CurrencyConverter)
 
