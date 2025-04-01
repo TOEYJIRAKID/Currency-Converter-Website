@@ -3,7 +3,7 @@
 ###### [(ระบบนี้ Transfer มาจาก Github Account เก่า --> https://github.com/TOEYJIRAKIT/HTML-CurrencyConverter)](https://github.com/TOEYJIRAKIT/HTML-CurrencyConverter)
 
 ## Live Demo  
-🔗 [[currency converter](https://workshop1-fb6b8.web.app/) 
+🔗 [currency converter](https://workshop1-fb6b8.web.app/) 
 
 ## Features  
 - **Modern UI** – ดีไซน์เรียบๆ สบายตา
