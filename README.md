@@ -1,4 +1,4 @@
-# เว็บไซต์แปลงสกุลเงิน
+# เว็บไซต์แปลงสกุลเงิน (Currency Converter)
 
 ## Website Link
 [currency converter](https://workshop1-fb6b8.web.app/)
