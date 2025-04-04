@@ -43,4 +43,4 @@ Currency Converter is a web application that allows users to quickly and easily 
 
 ## 📽️ **Project Preview** :
 
-![Currency Converter Web Application](https://github.com/user-attachments/assets/da452048-50bd-43df-88fc-8c5f0a227630)
+![Curency Convert Preview](https://github.com/user-attachments/assets/2f240bc2-4460-4a0e-8529-32a833e8d60c)
