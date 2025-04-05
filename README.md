@@ -39,7 +39,7 @@ Currency Converter is a web application that allows users to quickly and easily 
    git clone https://github.com/TOEYJIRAKID/Currency-Converter-Website.git
    cd public
    ```  
-2. **Run the code and open http://localhost:<your_port>/ to view the project.**
+2. **Run the code and open http://localhost:{port} to view the project.**
 
 ## 📽️ **Project Preview** :
 
